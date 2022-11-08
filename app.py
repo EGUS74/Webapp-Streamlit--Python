@@ -2,6 +2,7 @@ import streamlit as st
 from streamlit_lottie import st_lottie
 import requests as req
 from PIL import Image
+import datetime
 
 
 st.set_page_config(page_title="Kool Kraterzzz", page_icon=':simple_smile:', layout='wide')
